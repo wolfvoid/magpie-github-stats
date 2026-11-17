@@ -1,6 +1,6 @@
 {
   "name": "magpie-github-stats",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Private-by-default Magpie usage cards for GitHub profiles, with local daily sync.",
   "type": "module",
   "main": "./dist/plugin.js",
@@ -17,7 +17,7 @@
   "license": "MIT",
   "engines": {
     "node": ">=22",
-    "magpie": ">=0.1.1340"
+    "magpie": ">=0.1.2340"
   },
   "keywords": [
     "magpie-plugin",

@@ -1,6 +1,6 @@
 {
   "name": "magpie-github-stats",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Private-by-default Magpie usage cards for GitHub profiles, with local daily sync.",
   "type": "module",
   "main": "./dist/plugin.js",
@@ -42,7 +42,7 @@
     "page": {
       "title": "GitHub Stats",
       "titles": {
-        "zh": "GitHub 统计卡片"
+        "zh": "GitHub \u7edf\u8ba1\u5361\u7247"
       },
       "file": "page/index.html",
       "icon": "page/icon.svg",
